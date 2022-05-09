@@ -1,2 +1,2 @@
 # remind-me-water
-This app reminds you of drinking water everyday and provides you data
+This app reminds you of drinking water every day and provides you with data
