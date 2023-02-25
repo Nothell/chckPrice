@@ -1,2 +1,2 @@
-# remind-me-water
-This app reminds you of drinking water every day and provides you a report. (Written in React Native and Python)
+# chckPrice
+This app helps you take picture of products to compare the its price in different store in real time.
